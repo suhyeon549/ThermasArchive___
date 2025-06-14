@@ -333,7 +333,7 @@ header li a:hover::after {
   text-align: center;
   font-family: "Noto Sans KR", sans-serif;
   font-size: 30px;
-  margin-bottom: 3vh;
+  margin-bottom: 15px;
   color: #fff;
   font-weight: 280;
 }
@@ -357,7 +357,7 @@ header li a:hover::after {
     text-align: center;
     white-space: normal;
   
-    padding-bottom:0.5vh;
+    padding-bottom:10px;
     font-size:0.7rem;
     border-bottom: 2px solid #fff;
     font-weight: 400;
@@ -374,7 +374,7 @@ header li a:hover::after {
     white-space: normal;
   word-break: break-word;
   overflow-wrap: break-word;
-  margin-top: 3vh;
+  margin-top: 25px;
   
   
 }
